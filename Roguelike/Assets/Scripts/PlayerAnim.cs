@@ -24,8 +24,6 @@ public class PlayerAnim : MonoBehaviour
         }else
         {
             animator.SetBool("isMoving", false);
-        }
-
-      
+        }      
     }
 }
